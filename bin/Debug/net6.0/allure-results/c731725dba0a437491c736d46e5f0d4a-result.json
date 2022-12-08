@@ -1,0 +1,98 @@
+{
+  "uuid": "36095ca5b2214b51abd1338cc6df7779",
+  "historyId": "To Launch an amazon application",
+  "fullName": "To Launch an amazon application",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#4"
+    },
+    {
+      "name": "host",
+      "value": "ITEM-S133387"
+    },
+    {
+      "name": "feature",
+      "value": "Amazon"
+    },
+    {
+      "name": "tag",
+      "value": "Amazon"
+    }
+  ],
+  "links": [],
+  "name": "To Launch an amazon application",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I launch an amazon application url 'https://www.amazon.in/'",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498659974,
+      "stop": 1670498665275
+    },
+    {
+      "name": "When  I pass iphone 'iphone' in search box",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498665275,
+      "stop": 1670498667476
+    },
+    {
+      "name": "And  I click the search button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498667476,
+      "stop": 1670498671557
+    },
+    {
+      "name": "Then  The title should contain 'iphone' keyword",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498671558,
+      "stop": 1670498673573
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1670498659956,
+  "stop": 1670498673573
+}

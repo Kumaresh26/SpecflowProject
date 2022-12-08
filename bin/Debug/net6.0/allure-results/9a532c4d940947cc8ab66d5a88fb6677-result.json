@@ -1,0 +1,113 @@
+{
+  "uuid": "30dcfb4bbf32441fa82207471436671c",
+  "historyId": "To Launch an flipkart app",
+  "fullName": "To Launch an flipkart app",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#7"
+    },
+    {
+      "name": "host",
+      "value": "ITEM-S133387"
+    },
+    {
+      "name": "feature",
+      "value": "Flipkart"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "To Launch an flipkart app",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I launch an flipkart application url 'https://www.flipkart.com/'",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498660071,
+      "stop": 1670498718333
+    },
+    {
+      "name": "When  I close the login popup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498718333,
+      "stop": 1670498718409
+    },
+    {
+      "name": "When  I pass redmi 'Iphone' in search box",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498718410,
+      "stop": 1670498720516
+    },
+    {
+      "name": "And  I click  search button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498720516,
+      "stop": 1670498722604
+    },
+    {
+      "name": "Then  The title should be contain 'Iphone' keyword",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498722604,
+      "stop": 1670498724616
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1670498660070,
+  "stop": 1670498724616
+}

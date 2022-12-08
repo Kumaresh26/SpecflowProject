@@ -1,0 +1,107 @@
+{
+  "uuid": "1a1710ca7bdd4fae824106b8c1b64079",
+  "historyId": "To launch an Login Test application2049536246",
+  "fullName": "To launch an Login Test application",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#3"
+    },
+    {
+      "name": "host",
+      "value": "ITEM-S133387"
+    },
+    {
+      "name": "feature",
+      "value": "LoginTest"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "To launch an Login Test application",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I launch an Login Test application url 'https://practicetestautomation.com/practice-test-login/'",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498687296,
+      "stop": 1670498689391
+    },
+    {
+      "name": "When  I pass the username 'student' and password 'incorrectPassword'",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498689391,
+      "stop": 1670498691516
+    },
+    {
+      "name": "And  I click the login button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498691516,
+      "stop": 1670498693558
+    },
+    {
+      "name": "Then  I get the message",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498693558,
+      "stop": 1670498693601
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "username",
+      "value": "student"
+    },
+    {
+      "name": "password",
+      "value": "incorrectPassword"
+    }
+  ],
+  "start": 1670498687296,
+  "stop": 1670498693601
+}

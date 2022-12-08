@@ -1,0 +1,107 @@
+{
+  "uuid": "919e48db0f1841bb83078a410126b1b1",
+  "historyId": "To launch an Login Test application-1024211671",
+  "fullName": "To launch an Login Test application",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#3"
+    },
+    {
+      "name": "host",
+      "value": "ITEM-S133387"
+    },
+    {
+      "name": "feature",
+      "value": "LoginTest"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "To launch an Login Test application",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I launch an Login Test application url 'https://practicetestautomation.com/practice-test-login/'",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498677137,
+      "stop": 1670498679404
+    },
+    {
+      "name": "When  I pass the username 'invalidusername' and password 'Password123'",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498679404,
+      "stop": 1670498681540
+    },
+    {
+      "name": "And  I click the login button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498681540,
+      "stop": 1670498683595
+    },
+    {
+      "name": "Then  I get the message",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498683595,
+      "stop": 1670498683653
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "username",
+      "value": "invalidusername"
+    },
+    {
+      "name": "password",
+      "value": "Password123"
+    }
+  ],
+  "start": 1670498677136,
+  "stop": 1670498683653
+}

@@ -1,0 +1,113 @@
+{
+  "uuid": "a5bceb093cf54bf489a3a30b5fc02a7b",
+  "historyId": "To Launch an flipkart application",
+  "fullName": "To Launch an flipkart application",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#7"
+    },
+    {
+      "name": "host",
+      "value": "ITEM-S133387"
+    },
+    {
+      "name": "feature",
+      "value": "Flipkart"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "To Launch an flipkart application",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I launch an flipkart application url 'https://www.flipkart.com/'",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498728271,
+      "stop": 1670498734979
+    },
+    {
+      "name": "When  I close the login popup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498734979,
+      "stop": 1670498735086
+    },
+    {
+      "name": "When  I pass redmi 'redmi' in search box",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498735087,
+      "stop": 1670498737187
+    },
+    {
+      "name": "And  I click  search button",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498737187,
+      "stop": 1670498739260
+    },
+    {
+      "name": "Then  The title should be contain 'redmi' keyword",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1670498739260,
+      "stop": 1670498741277
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1670498728271,
+  "stop": 1670498741277
+}
