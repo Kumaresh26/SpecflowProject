@@ -12,5 +12,3 @@ Scenario:To Launch an amazon application
 
 
 
-
-

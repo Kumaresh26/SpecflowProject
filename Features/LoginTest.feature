@@ -13,4 +13,5 @@ Scenario Outline:To launch an Login Test application
 	| student         | Password123       |
 	| invalidusername | Password123       |
 	| student         | incorrectPassword |
+	| kumaresh        | password          |
 	
